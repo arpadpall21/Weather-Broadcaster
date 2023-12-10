@@ -1,0 +1,73 @@
+cities_data = [
+    # Asia
+    {"continent": "Asia", "country": "China", "city": "Shanghai"},
+    {"continent": "Asia", "country": "India", "city": "Mumbai"},
+    {"continent": "Asia", "country": "Japan", "city": "Tokyo"},
+    {"continent": "Asia", "country": "China", "city": "Beijing"},
+    {"continent": "Asia", "country": "India", "city": "Delhi"},
+    {"continent": "Asia", "country": "Japan", "city": "Osaka"},
+    {"continent": "Asia", "country": "South Korea", "city": "Seoul"},
+    {"continent": "Asia", "country": "Turkey", "city": "Istanbul"},
+    {"continent": "Asia", "country": "Pakistan", "city": "Karachi"},
+    {"continent": "Asia", "country": "Bangladesh", "city": "Dhaka"},
+    
+    # Africa
+    {"continent": "Africa", "country": "Nigeria", "city": "Lagos"},
+    {"continent": "Africa", "country": "Egypt", "city": "Cairo"},
+    {"continent": "Africa", "country": "South Africa", "city": "Johannesburg"},
+    {"continent": "Africa", "country": "Kenya", "city": "Nairobi"},
+    {"continent": "Africa", "country": "Morocco", "city": "Casablanca"},
+    {"continent": "Africa", "country": "Ethiopia", "city": "Addis Ababa"},
+    {"continent": "Africa", "country": "Ghana", "city": "Accra"},
+    {"continent": "Africa", "country": "Ivory Coast", "city": "Abidjan"},
+    {"continent": "Africa", "country": "Tanzania", "city": "Dar es Salaam"},
+    {"continent": "Africa", "country": "Angola", "city": "Luanda"},
+    
+    # North America
+    {"continent": "North America", "country": "United States", "city": "New York"},
+    {"continent": "North America", "country": "Canada", "city": "Toronto"},
+    {"continent": "North America", "country": "Mexico", "city": "Mexico City"},
+    {"continent": "North America", "country": "United States", "city": "Los Angeles"},
+    {"continent": "North America", "country": "United States", "city": "Chicago"},
+    {"continent": "North America", "country": "United States", "city": "Houston"},
+    {"continent": "North America", "country": "United States", "city": "Phoenix"},
+    {"continent": "North America", "country": "United States", "city": "Philadelphia"},
+    {"continent": "North America", "country": "United States", "city": "San Francisco"},
+    {"continent": "North America", "country": "Canada", "city": "Vancouver"},
+    
+    # South America
+    {"continent": "South America", "country": "Brazil", "city": "Sao Paulo"},
+    {"continent": "South America", "country": "Argentina", "city": "Buenos Aires"},
+    {"continent": "South America", "country": "Peru", "city": "Lima"},
+    {"continent": "South America", "country": "Brazil", "city": "Rio de Janeiro"},
+    {"continent": "South America", "country": "Colombia", "city": "Bogota"},
+    {"continent": "South America", "country": "Chile", "city": "Santiago"},
+    {"continent": "South America", "country": "Venezuela", "city": "Caracas"},
+    {"continent": "South America", "country": "Ecuador", "city": "Quito"},
+    {"continent": "South America", "country": "Paraguay", "city": "Asuncion"},
+    {"continent": "South America", "country": "Uruguay", "city": "Montevideo"},
+    
+    # Europe
+    {"continent": "Europe", "country": "United Kingdom", "city": "London"},
+    {"continent": "Europe", "country": "France", "city": "Paris"},
+    {"continent": "Europe", "country": "Germany", "city": "Berlin"},
+    {"continent": "Europe", "country": "Italy", "city": "Rome"},
+    {"continent": "Europe", "country": "Russia", "city": "Moscow"},
+    {"continent": "Europe", "country": "Spain", "city": "Madrid"},
+    {"continent": "Europe", "country": "Netherlands", "city": "Amsterdam"},
+    {"continent": "Europe", "country": "Switzerland", "city": "Zurich"},
+    {"continent": "Europe", "country": "Sweden", "city": "Stockholm"},
+    {"continent": "Europe", "country": "Greece", "city": "Athens"},
+    
+    # Australia
+    {"continent": "Australia", "country": "Australia", "city": "Sydney"},
+    {"continent": "Australia", "country": "Australia", "city": "Melbourne"},
+    {"continent": "Australia", "country": "Australia", "city": "Brisbane"},
+    {"continent": "Australia", "country": "Australia", "city": "Perth"},
+    {"continent": "Australia", "country": "New Zealand", "city": "Auckland"},
+    {"continent": "Australia", "country": "Australia", "city": "Adelaide"},
+    {"continent": "Australia", "country": "Australia", "city": "Canberra"},
+    {"continent": "Australia", "country": "Australia", "city": "Gold Coast"},
+    {"continent": "Australia", "country": "Australia", "city": "Sydney"},
+    {"continent": "Australia", "country": "Australia", "city": "Melbourne"},
+]
